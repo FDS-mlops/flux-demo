@@ -1,1 +1,1 @@
-# flux-get-started
+# flux-demo
